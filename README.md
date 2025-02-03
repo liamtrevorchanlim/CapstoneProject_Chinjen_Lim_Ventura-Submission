@@ -19,5 +19,5 @@
 - Machine Learning in Economics
 
 ### Module 4: Special Topics in Data Science
-- Geospacial Data Analysis
+- Geospatial Data Analysis
 - Demand Estimation
