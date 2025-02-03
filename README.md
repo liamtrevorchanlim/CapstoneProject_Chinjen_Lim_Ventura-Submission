@@ -2,7 +2,7 @@
 
 ## Syllabus
 - [Syllabus here](https://github.com/mox-ds4upse/ds4upse-2425s2/blob/main/%5BEcon138%5D%20Ballo_Syllabus.pdf)
-- [Introductory Slides](https://github.com/mox-ds4upse/ds4upse-2425s2/blob/main/00%20Introduction.pdf)
+- [Introductory Slides](https://github.com/mox-ds4upse/ds4upse-2425s2/blob/main/00%20Introduction.pdf#:~:text=00_Introduction.pdf)
 
 ### Module 1: Introduction to Python and Data Science
 - Basics of Python and Object-Oriented Programming
